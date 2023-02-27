@@ -1,16 +1,16 @@
 img {
     max-width: 100%;
 }
+a{
+    text-decoration: none;
+    color: inherit;
+}
+/* header */
 header {
     height: 80px;
     background-color: rgb(33, 37, 72);
     color: white;
 }
-a{
-    text-decoration: none;
-    color: inherit;
-}
-
 .ms_menu-list {
     list-style-type: none;
 }
@@ -18,3 +18,31 @@ a{
 .ms_menu-list li {
     margin-left: 1rem;
 }
+/* /header */
+
+/* jumbotron */
+.jumbotron{
+    background-color: rgb(31, 171, 124);
+    color: white;
+}
+.jumbotron img{
+    width: 300px;
+}
+.star_divisor .hr{
+    width: 100px;
+    background-color: rgb(117, 117, 117);
+    height: 4px;
+}
+.star_divisor i{
+    padding: 0 1rem;
+}
+/* card section */
+
+.card_section img{
+    border-radius: 10px;
+
+}
+
+
+/* !MEDIA QUERY */
+
