@@ -1,0 +1,20 @@
+img {
+    max-width: 100%;
+}
+header {
+    height: 80px;
+    background-color: rgb(33, 37, 72);
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.ms_menu-list {
+    list-style-type: none;
+}
+
+.ms_menu-list li {
+    margin-left: 1rem;
+}
