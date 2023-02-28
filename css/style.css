@@ -84,3 +84,11 @@ header {
     border-color: transparent;
     color: black;
 }
+.top-footer{
+    background-color: rgb(33, 37, 72);
+    color: white;
+}
+.bottom-footer{
+    background-color:rgb(40, 40, 47);
+    color: white;
+}
